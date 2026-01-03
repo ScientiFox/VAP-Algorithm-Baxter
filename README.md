@@ -41,7 +41,7 @@ Experiments were conducted under conditions of escalating complexity: in which t
 
 The results for the user trials, indicating the coherence between selection and optimization are indicated here:
 
-<img width="1855" height="1080" alt="Data key Var auto paper" src="https://github.com/user-attachments/assets/bca22fe2-3290-478a-b363-50add8fa4eed" />
+<img width="1855" height="834" alt="Data key Var auto paper" src="https://github.com/user-attachments/assets/2c9b1d36-cb2d-4756-aeb0-bc7a17d3377f" />
 
 Additionally, the attached videos comcisely demonstrate the system's performance, in both autonomous and manual execuation cases.
 
